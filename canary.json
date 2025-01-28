@@ -1,8 +1,8 @@
 {
   "magisk": {
-    "version": "v27.2-kitsune-3",
+    "version": "v27.2-kitsune-4",
     "versionCode": "27002",
-    "link": "https://github.com/1q23lyc45/KitsuneMagisk/releases/download/v27.2-kitsune-3/app-release.apk",
+    "link": "https://github.com/1q23lyc45/KitsuneMagisk/releases/download/v27.2-kitsune-4/app-release.apk",
     "note": "https://1q23lyc45.github.io/note.md"
   },
   "stub": {
