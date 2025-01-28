@@ -1,10 +1,11 @@
 ## What's Changed
-* Bump bytemuck from 1.20.0 to 1.21.0 in /native/src by @dependabot in https://github.com/1q23lyc45/KitsuneMagisk/pull/15
-* Bump libc from 0.2.168 to 0.2.169 in /native/src by @dependabot in https://github.com/1q23lyc45/KitsuneMagisk/pull/16
-* app: auto close action fragment only when focus lost by @1q23lyc45 in https://github.com/1q23lyc45/KitsuneMagisk/pull/17
-* boot-completed.sh support by @1q23lyc45 in https://github.com/1q23lyc45/KitsuneMagisk/pull/18 (Not working right now.)
+* Update some dependencies by @1q23lyc45 in https://github.com/1q23lyc45/KitsuneMagisk/pull/19
+* Support 16K page size by @1q23lyc45 in https://github.com/1q23lyc45/KitsuneMagisk/pull/20
+* Random package name optimization by @1q23lyc45 in https://github.com/1q23lyc45/KitsuneMagisk/pull/25
+* Fix auto-build scripts by @1q23lyc45 in https://github.com/1q23lyc45/KitsuneMagisk/pull/26
+* change update url by @1q23lyc45 in https://github.com/1q23lyc45/KitsuneMagisk/pull/28
 
 
-**Full Changelog**: https://github.com/1q23lyc45/KitsuneMagisk/compare/v27.2-kitsune-2...v27.2-kitsune-3
+**Full Changelog**: https://github.com/1q23lyc45/KitsuneMagisk/compare/v27.2-kitsune-3...v27.2-kitsune-4
 
-🎉 Merry Christmas!
+🎉 Happy Chinese New Year!
